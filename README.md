@@ -21,9 +21,9 @@
 ## 실행 화면
 - 코드의 실행 스크린샷과 구현 내용 설명
 
-![실행화면](img/screenshot-1.png)
-![실행화면](img/screenshot-2.png)
-![실행화면](img/screenshot-3.png)
+![과제1 실행화면](img/screenshot-1.png)
+![과제1 실행화면](img/screenshot-2.png)
+![과제1 실행화면](img/screenshot-3.png)
 
 - 구현한 내용 (위 그림 참조)
 	- UI 구성 : RadioButton과 CheckBox 등을 적절히 배치
@@ -36,7 +36,7 @@
 ## 실행 화면
 - 코드의 실행 스크린샷과 구현 내용 설명
 
-![실행화면](img/screenshot-4.png)
+![과제2 실행화면](img/screenshot-4.png)
 
 - 구현한 내용 (위 그림 참조)
 	- 아무것도 선택하지 않고 주문하기 버튼을 누르면 에러 메시지 표시
@@ -46,7 +46,7 @@
 ## 실행 화면
 - 코드의 실행 스크린샷과 구현 내용 설명
 
-![실행화면](img/screenshot-5.png)
+![과제3 실행화면](img/screenshot-5.png)
 
 - 구현한 내용 (위 그림 참조)
 	- Tab을 이용해서 GroupBox 사이를 이동하기
@@ -58,7 +58,7 @@
 ## 실행 화면
 - 코드의 실행 스크린샷과 구현 내용 설명
 
-![실행화면](img/screenshot-6.png)
+![과제4 실행화면](img/screenshot-6.png)
 
 - 구현한 내용 (위 그림 참조)
 	- 선택하는 순간 ListBox 주문내역이 표시되도록 구현
